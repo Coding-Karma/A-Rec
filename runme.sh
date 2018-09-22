@@ -1,5 +1,4 @@
 git clone https://github.com/1N3/Sn1per /opt/Sniper
-bash /opt/Sniper/build.sh
 bash /opt/Sniper/install.sh
 apt-get install inspy
 apt-get install wig
