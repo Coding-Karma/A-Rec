@@ -193,7 +193,7 @@ func main() {
 	for i := 0; i < 14; i++ {
 		bs := <-outChan
 		fmt.Println(string(bs))
-		log.fmt.Println(string(bs))
+		log.Println(string(bs))
 
 	}
 
