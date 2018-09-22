@@ -1,5 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-04:13:24	1868/1868	---MCZ	200	added ('OK')	text/plain	date:Thu,%2030%20Aug%202018%2018:00:00%20GMT	https://www.google.com/robots.txt		(from )
-04:13:26	42326/42326	---MCZ	200	added ('OK')	text/html	date:Sat,%2022%20Sep%202018%2022:43:24%20GMT	https://www.google.com/	www.google.com/index.html	(from )
-04:13:28	225/225	---MCZ	301	error ('Moved%20Permanently')	text/html	date:Sat,%2022%20Sep%202018%2022:43:27%20GMT	https://www.google.com/calendar?tab=wc	www.google.com/calendar.0fefa.delayed	(from https://www.google.com/)
-04:13:28	132789/132789	---MCZ	200	added ('OK')	text/html	date:Sat,%2022%20Sep%202018%2022:43:28%20GMT	https://www.google.com/preferences?hl=en	www.google.com/preferencesfef7.html	(from https://www.google.com/)
